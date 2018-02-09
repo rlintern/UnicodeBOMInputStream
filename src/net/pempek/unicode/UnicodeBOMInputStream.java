@@ -7,6 +7,8 @@ import java.io.InputStream;
 import java.io.PushbackInputStream;
 
 /**
+ * This is a comment!
+ * 
  * The <code>UnicodeBOMInputStream</code> class wraps any
  * <code>InputStream</code> and detects the presence of any Unicode BOM
  * (Byte Order Mark) at its beginning, as defined by
