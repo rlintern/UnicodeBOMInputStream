@@ -7,6 +7,8 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
 
+import net.rlintern.unicode.UnicodeBOMInputStream;
+
 public final class UnicodeBOMInputStreamUsage
 {
   public static void main(final String[] args) throws Exception

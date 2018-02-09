@@ -10,13 +10,14 @@ import java.io.InputStreamReader;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import net.pempek.unicode.UnicodeBOMInputStream.BOM;
+import net.rlintern.unicode.UnicodeBOMInputStream;
+import net.rlintern.unicode.UnicodeBOMInputStream.BOM;
 
 /**
  * The <code>UnicodeBOMInputStreamTest</code> class tests the
  * <code>UnicodeBOMInputStream</code> class.
  *
- * @see net.pempek.unicode.UnicodeBOMInputStream
+ * @see net.rlintern.unicode.UnicodeBOMInputStream
  *
  * @author Gregory Pakosz
  * @version 1.0
